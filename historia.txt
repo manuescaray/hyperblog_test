@@ -2,3 +2,4 @@ Este es un nuevo proyecto de prueba para Git y GitHub. Soy un estudiante avanzad
 
 Hoy hablaremos de su vida y su inserción en el mundo de la programación.
 Este es un commit desde Git.
+Este es otro cambio desde Git.
