@@ -35,3 +35,9 @@ body {
 #post {
     padding: 1em;
 }
+
+.footer {
+    width: 70%;
+    margin: 0 auto;
+    background-color: rgb(150, 151, 151);
+}
